@@ -1,0 +1,28 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+.research/
+captures/
+dist/
+graphify-out/
+/AGENT.md
+
+# Локальные секреты и материалы подписи
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+key.properties
+keystore.properties
+secrets.properties
+
+# Установочные сборки
+*.apk
+*.aab

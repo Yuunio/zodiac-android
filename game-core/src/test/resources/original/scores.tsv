@@ -1,0 +1,15 @@
+simple:9	0
+simple:10	40
+simple:11	50
+simple:24	180
+square:3	40
+square:4	80
+pentagon:3	30
+pentagon:4	50
+pentagon:5	100
+girls:3	70
+girls:4	150
+girls:5	200
+pentagon:3,girls:3	100
+earth:3,girls:3	140
+simple:24,triangle:3,square:4,pentagon:5,fire:3,earth:3,water:3,air:3,girls:5	890

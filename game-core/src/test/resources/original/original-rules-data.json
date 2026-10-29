@@ -1,0 +1,613 @@
+{
+  "source": "scenes.ga -> startup.sbf :: zodiac_cards + zodiac:DefineCombination + zodiac_stats:FindCombination",
+  "deck": [
+    {
+      "originalIndex": 1,
+      "definition": "aquarius",
+      "sign": "aquarius",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 2,
+      "definition": "capricorn",
+      "sign": "capricorn",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 3,
+      "definition": "libra",
+      "sign": "libra",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 4,
+      "definition": "gemini",
+      "sign": "gemini",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 5,
+      "definition": "taurus",
+      "sign": "taurus",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 6,
+      "definition": "sagittarius",
+      "sign": "sagittarius",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 7,
+      "definition": "aries",
+      "sign": "aries",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 8,
+      "definition": "scorpio",
+      "sign": "scorpio",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 9,
+      "definition": "virgo",
+      "sign": "virgo",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 10,
+      "definition": "leo",
+      "sign": "leo",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 11,
+      "definition": "pisces",
+      "sign": "pisces",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 12,
+      "definition": "cancer",
+      "sign": "cancer",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 13,
+      "definition": "aquarius",
+      "sign": "aquarius",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 14,
+      "definition": "capricorn",
+      "sign": "capricorn",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 15,
+      "definition": "libra",
+      "sign": "libra",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 16,
+      "definition": "gemini",
+      "sign": "gemini",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 17,
+      "definition": "taurus",
+      "sign": "taurus",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 18,
+      "definition": "sagittarius",
+      "sign": "sagittarius",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 19,
+      "definition": "aries",
+      "sign": "aries",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 20,
+      "definition": "scorpio",
+      "sign": "scorpio",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 21,
+      "definition": "virgo",
+      "sign": "virgo",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 22,
+      "definition": "leo",
+      "sign": "leo",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 23,
+      "definition": "pisces",
+      "sign": "pisces",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 24,
+      "definition": "cancer",
+      "sign": "cancer",
+      "category": "simple",
+      "guardian": false
+    },
+    {
+      "originalIndex": 25,
+      "definition": "capricorn_triangle",
+      "sign": "capricorn",
+      "category": "triangle",
+      "guardian": false
+    },
+    {
+      "originalIndex": 26,
+      "definition": "taurus_triangle",
+      "sign": "taurus",
+      "category": "triangle",
+      "guardian": false
+    },
+    {
+      "originalIndex": 27,
+      "definition": "aries_triangle",
+      "sign": "aries",
+      "category": "triangle",
+      "guardian": false
+    },
+    {
+      "originalIndex": 28,
+      "definition": "sagittarius_square",
+      "sign": "sagittarius",
+      "category": "square",
+      "guardian": false
+    },
+    {
+      "originalIndex": 29,
+      "definition": "virgo_square",
+      "sign": "virgo",
+      "category": "square",
+      "guardian": false
+    },
+    {
+      "originalIndex": 30,
+      "definition": "pisces_square",
+      "sign": "pisces",
+      "category": "square",
+      "guardian": false
+    },
+    {
+      "originalIndex": 31,
+      "definition": "cancer_square",
+      "sign": "cancer",
+      "category": "square",
+      "guardian": false
+    },
+    {
+      "originalIndex": 32,
+      "definition": "aquarius_pentagon",
+      "sign": "aquarius",
+      "category": "pentagon",
+      "guardian": false
+    },
+    {
+      "originalIndex": 33,
+      "definition": "libra_pentagon",
+      "sign": "libra",
+      "category": "pentagon",
+      "guardian": false
+    },
+    {
+      "originalIndex": 34,
+      "definition": "gemini_pentagon",
+      "sign": "gemini",
+      "category": "pentagon",
+      "guardian": false
+    },
+    {
+      "originalIndex": 35,
+      "definition": "scorpio_pentagon",
+      "sign": "scorpio",
+      "category": "pentagon",
+      "guardian": false
+    },
+    {
+      "originalIndex": 36,
+      "definition": "leo_pentagon",
+      "sign": "leo",
+      "category": "pentagon",
+      "guardian": false
+    },
+    {
+      "originalIndex": 37,
+      "definition": "sagittarius_fire",
+      "sign": "sagittarius",
+      "category": "fire",
+      "guardian": false
+    },
+    {
+      "originalIndex": 38,
+      "definition": "aries_fire",
+      "sign": "aries",
+      "category": "fire",
+      "guardian": true
+    },
+    {
+      "originalIndex": 39,
+      "definition": "leo_fire",
+      "sign": "leo",
+      "category": "fire",
+      "guardian": false
+    },
+    {
+      "originalIndex": 40,
+      "definition": "capricorn_earth",
+      "sign": "capricorn",
+      "category": "earth",
+      "guardian": true
+    },
+    {
+      "originalIndex": 41,
+      "definition": "taurus_earth",
+      "sign": "taurus",
+      "category": "earth",
+      "guardian": true
+    },
+    {
+      "originalIndex": 42,
+      "definition": "virgo_earth",
+      "sign": "virgo",
+      "category": "earth",
+      "guardian": false
+    },
+    {
+      "originalIndex": 43,
+      "definition": "scorpio_water",
+      "sign": "scorpio",
+      "category": "water",
+      "guardian": false
+    },
+    {
+      "originalIndex": 44,
+      "definition": "pisces_water",
+      "sign": "pisces",
+      "category": "water",
+      "guardian": true
+    },
+    {
+      "originalIndex": 45,
+      "definition": "cancer_water",
+      "sign": "cancer",
+      "category": "water",
+      "guardian": false
+    },
+    {
+      "originalIndex": 46,
+      "definition": "aquarius_air",
+      "sign": "aquarius",
+      "category": "air",
+      "guardian": false
+    },
+    {
+      "originalIndex": 47,
+      "definition": "gemini_air",
+      "sign": "gemini",
+      "category": "air",
+      "guardian": true
+    },
+    {
+      "originalIndex": 48,
+      "definition": "libra_air",
+      "sign": "libra",
+      "category": "air",
+      "guardian": false
+    }
+  ],
+  "combinations": [
+    {
+      "key": "simple_10",
+      "category": "simple",
+      "count": 10,
+      "increment": 40
+    },
+    {
+      "key": "simple_11",
+      "category": "simple",
+      "count": 11,
+      "increment": 10
+    },
+    {
+      "key": "simple_12",
+      "category": "simple",
+      "count": 12,
+      "increment": 10
+    },
+    {
+      "key": "simple_13",
+      "category": "simple",
+      "count": 13,
+      "increment": 10
+    },
+    {
+      "key": "simple_14",
+      "category": "simple",
+      "count": 14,
+      "increment": 10
+    },
+    {
+      "key": "simple_15",
+      "category": "simple",
+      "count": 15,
+      "increment": 10
+    },
+    {
+      "key": "simple_16",
+      "category": "simple",
+      "count": 16,
+      "increment": 10
+    },
+    {
+      "key": "simple_17",
+      "category": "simple",
+      "count": 17,
+      "increment": 10
+    },
+    {
+      "key": "simple_18",
+      "category": "simple",
+      "count": 18,
+      "increment": 10
+    },
+    {
+      "key": "simple_19",
+      "category": "simple",
+      "count": 19,
+      "increment": 10
+    },
+    {
+      "key": "simple_20",
+      "category": "simple",
+      "count": 20,
+      "increment": 10
+    },
+    {
+      "key": "simple_21",
+      "category": "simple",
+      "count": 21,
+      "increment": 10
+    },
+    {
+      "key": "simple_22",
+      "category": "simple",
+      "count": 22,
+      "increment": 10
+    },
+    {
+      "key": "simple_23",
+      "category": "simple",
+      "count": 23,
+      "increment": 10
+    },
+    {
+      "key": "simple_24",
+      "category": "simple",
+      "count": 24,
+      "increment": 10
+    },
+    {
+      "key": "square_3",
+      "category": "square",
+      "count": 3,
+      "increment": 40
+    },
+    {
+      "key": "square_4",
+      "category": "square",
+      "count": 4,
+      "increment": 40
+    },
+    {
+      "key": "triangle",
+      "category": "triangle",
+      "count": 3,
+      "increment": 50
+    },
+    {
+      "key": "pentagon_3",
+      "category": "pentagon",
+      "count": 3,
+      "increment": 30
+    },
+    {
+      "key": "pentagon_4",
+      "category": "pentagon",
+      "count": 4,
+      "increment": 20
+    },
+    {
+      "key": "pentagon_5",
+      "category": "pentagon",
+      "count": 5,
+      "increment": 50
+    },
+    {
+      "key": "fire",
+      "category": "fire",
+      "count": 3,
+      "increment": 70
+    },
+    {
+      "key": "earth",
+      "category": "earth",
+      "count": 3,
+      "increment": 70
+    },
+    {
+      "key": "water",
+      "category": "water",
+      "count": 3,
+      "increment": 70
+    },
+    {
+      "key": "air",
+      "category": "air",
+      "count": 3,
+      "increment": 70
+    },
+    {
+      "key": "girls_3",
+      "category": "girls",
+      "count": 3,
+      "increment": 70
+    },
+    {
+      "key": "girls_4",
+      "category": "girls",
+      "count": 4,
+      "increment": 80
+    },
+    {
+      "key": "girls_5",
+      "category": "girls",
+      "count": 5,
+      "increment": 50
+    }
+  ],
+  "scoreCases": [
+    {
+      "stats": {
+        "simple": 9
+      },
+      "points": 0
+    },
+    {
+      "stats": {
+        "simple": 10
+      },
+      "points": 40
+    },
+    {
+      "stats": {
+        "simple": 11
+      },
+      "points": 50
+    },
+    {
+      "stats": {
+        "simple": 24
+      },
+      "points": 180
+    },
+    {
+      "stats": {
+        "square": 3
+      },
+      "points": 40
+    },
+    {
+      "stats": {
+        "square": 4
+      },
+      "points": 80
+    },
+    {
+      "stats": {
+        "pentagon": 3
+      },
+      "points": 30
+    },
+    {
+      "stats": {
+        "pentagon": 4
+      },
+      "points": 50
+    },
+    {
+      "stats": {
+        "pentagon": 5
+      },
+      "points": 100
+    },
+    {
+      "stats": {
+        "girls": 3
+      },
+      "points": 70
+    },
+    {
+      "stats": {
+        "girls": 4
+      },
+      "points": 150
+    },
+    {
+      "stats": {
+        "girls": 5
+      },
+      "points": 200
+    },
+    {
+      "stats": {
+        "pentagon": 3,
+        "girls": 3
+      },
+      "points": 100
+    },
+    {
+      "stats": {
+        "earth": 3,
+        "girls": 3
+      },
+      "points": 140
+    },
+    {
+      "stats": {
+        "simple": 24,
+        "triangle": 3,
+        "square": 4,
+        "pentagon": 5,
+        "fire": 3,
+        "earth": 3,
+        "water": 3,
+        "air": 3,
+        "girls": 5
+      },
+      "points": 890
+    }
+  ]
+}

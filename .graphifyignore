@@ -1,0 +1,14 @@
+.git/
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+.research/
+captures/
+dist/
+*.apk
+*.aab
+*.jks
+*.keystore
+gradle/wrapper/gradle-wrapper.jar
